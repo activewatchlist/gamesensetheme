@@ -1,1 +1,3 @@
-# gamesensetheme
+# gamesense theme
+
+Gamesense theme for Discord.
